@@ -1,10 +1,15 @@
 namespace Application
 {
-    public partial class Form1 : Form
+    public partial class connexion : Form
     {
-        public Form1()
+        public connexion()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
