@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cours PAM 2\\Repositories\\Repo1\\projet-exemple-1\\Application\\Application\\Application.csproj": {}
+    "D:\\Cours PAM 2\\Repositories\\Repo1\\projet-exemple-1\\app\\app\\app.csproj": {}
   },
   "projects": {
-    "D:\\Cours PAM 2\\Repositories\\Repo1\\projet-exemple-1\\Application\\Application\\Application.csproj": {
+    "D:\\Cours PAM 2\\Repositories\\Repo1\\projet-exemple-1\\app\\app\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cours PAM 2\\Repositories\\Repo1\\projet-exemple-1\\Application\\Application\\Application.csproj",
-        "projectName": "Application",
-        "projectPath": "D:\\Cours PAM 2\\Repositories\\Repo1\\projet-exemple-1\\Application\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Cours PAM 2\\Repositories\\Repo1\\projet-exemple-1\\app\\app\\app.csproj",
+        "projectName": "app",
+        "projectPath": "D:\\Cours PAM 2\\Repositories\\Repo1\\projet-exemple-1\\app\\app\\app.csproj",
         "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-        "outputPath": "D:\\Cours PAM 2\\Repositories\\Repo1\\projet-exemple-1\\Application\\Application\\obj\\",
+        "outputPath": "D:\\Cours PAM 2\\Repositories\\Repo1\\projet-exemple-1\\app\\app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
